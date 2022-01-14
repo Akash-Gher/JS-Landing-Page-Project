@@ -13,5 +13,5 @@ desktop view:
 
 
 phone view:
-![image](https://user-images.githubusercontent.com/53932047/149520709-711ea088-1e9d-43e2-8156-1c79297b828f.png){:height="36px" width="36px"}. 
+![image](https://user-images.githubusercontent.com/53932047/149520709-711ea088-1e9d-43e2-8156-1c79297b828f.png)
 ![image](https://user-images.githubusercontent.com/53932047/149520725-9b9c21c2-dc65-43ff-96a7-d04e694e0142.png) 
